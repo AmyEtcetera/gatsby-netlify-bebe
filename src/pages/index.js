@@ -7,6 +7,6 @@ export default () => (
 		<Link to="/contact/">Contact</Link> | <Link to="/about/">About</Link>
 		<Header headerText="It's a test, obvi" />
 		<img src="https://picsum.photos/400/200" alt="random landscape or other" />		
-		<p>Hello world! I wonder how you are doing.</p>
+		<p>Hello world! I wonder how you are doing...</p>
 		<p><a href="https://www.google.com/">Link to something off this site</a> is a regular anchor tag.</p>	</div>
 )
