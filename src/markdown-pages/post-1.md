@@ -19,3 +19,5 @@ But you can make an ordered list:
 3. When
 4. Where
 5. Who
+
+[post 2](/blog/post-two)
