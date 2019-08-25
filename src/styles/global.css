@@ -1,6 +1,7 @@
 html {
     background-color: rgb(253, 192, 202);
   }
+body { font-family: sans-serif; }
 span {
     background-color: yellow;
 }
