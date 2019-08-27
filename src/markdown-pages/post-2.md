@@ -3,7 +3,9 @@ path: "/blog/post-two"
 date: "2019-08-24"
 title: "Post 2"
 ---
-I see a blog post.
+[home](/)
+
+I see ANOTHER blog post!
 
 I want to understand all the code I just copy/pasted!
 
